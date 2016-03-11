@@ -2,7 +2,7 @@
 
 #### _Website APP made in C#, Visual Studio, and Razor
 
-#### By _**Veronica Alley, lawton b, jackson cavafazzo, rob king, pablo vera, michael**_
+#### By _**Veronica Alley, lawton browning, jackson cavafazzo, rob king, pablo vera, michael**_
 
 ## Description
 
@@ -19,4 +19,4 @@ _C#, visual studio .net, Razor_
 
 ### License
 
-Copyright (c) 2015 **_Veronica Alley_**
+Copyright (c) 2015 **Veronica Alley, lawton browning, jackson cavafazzo, rob king, pablo vera, michael**
